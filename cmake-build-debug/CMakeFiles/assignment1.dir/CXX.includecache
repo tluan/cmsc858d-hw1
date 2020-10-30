@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kmirai/Projects/858d/assignment1.cpp
+iostream
+-
+vector
+-
+cstdint
+-
+map
+-
+vector
+-
+cstdint
+-
+map
+-
+iostream
+-
+math.h
+-
+

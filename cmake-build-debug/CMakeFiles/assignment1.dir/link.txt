@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/assignment1.dir/assignment1.cpp.o CMakeFiles/assignment1.dir/bwocc.cpp.o  -o assignment1   -L/usr/local/lib 

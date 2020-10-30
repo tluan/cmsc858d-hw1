@@ -1,0 +1,7 @@
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/bwocc.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/assignment1.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/bws.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/newrank.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kmirai/Projects/858d/cmake-build-debug/CMakeFiles/bwt.dir
