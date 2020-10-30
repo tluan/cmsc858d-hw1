@@ -1,6 +1,10 @@
 # cmsc858d-hw1
 https://rob-p.github.io/CMSC858D_F20/assignments/02_homework_01
 Tu Luan 
+
+
+
+
 Compile note: 
 MakeLists.txt please add the dirctory for boost and divsufsort
 bwocc.cpp is the driver file. 
